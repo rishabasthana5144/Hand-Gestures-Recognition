@@ -1,6 +1,6 @@
 # Hand-Gestures-Recognition
 
-Using python's most famous opencv library to detect the gestures of the hand such as finger counting.
+Using python's most famous opencv library to detect the gestures of the hand such as counting fingers.
 
 # High Level Steps
 Step 1: Open camera and capture the video live stream
